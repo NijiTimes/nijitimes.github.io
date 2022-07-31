@@ -107,5 +107,29 @@ let en = [{
     name: "Fulgur Ovid",
     ID: "en20",
     youtubeID: "UCGhqxhovNfaPBpxfCruy9EA"
+},{
+    name: "Maria Marionette",
+    ID: "en21",
+    youtubeID: "UCwaS8_S7kMiKA3izlTWHbQg"
+},{
+    name: "Kyo Kaneko",
+    ID: "en22",
+    youtubeID: "UCsb-1aJgiJXJH2feV-zlZRw"
+},{
+    name: "Aia Amare",
+    ID: "en23",
+    youtubeID: "UCN68LoM3khS4gdBMiWJO8WA"
+},{
+    name: "Aster Arcadia",
+    ID: "en24",
+    youtubeID: "UCpzxZW5kghGnO5TmAFJQAVw"
+},{
+    name: "Scarle Yonaguni",
+    ID: "en25",
+    youtubeID: "UCFgXWZOUZA2oYHNr6qDmsTQ"
+},{
+    name: "Ren Zotto",
+    ID: "en26",
+    youtubeID: "UCKu59gTZ_rdEmerdx5rV4Yg"
 },
 ]
