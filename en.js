@@ -106,7 +106,9 @@ let en = [{
 {
     name: "Fulgur Ovid",
     ID: "en20",
-    youtubeID: "UCGhqxhovNfaPBpxfCruy9EA"
+    youtubeID: "UCGhqxhovNfaPBpxfCruy9EA",
+    biliID:"1281805827",
+    biliOrder:6
 },{
     name: "Maria Marionette",
     ID: "en21",
