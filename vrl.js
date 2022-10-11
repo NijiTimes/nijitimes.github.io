@@ -1,8 +1,4 @@
-let vrl = [{
-    name: "菫妃奈",
-    ID: "vrl1",
-    biliID: "98181"
-},
+let vrl = [
 {
     name: "安堂いなり",
     ID: "vrl2",
