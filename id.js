@@ -24,11 +24,6 @@ let id = [{
     youtubeID: "UCrR7JxkbeLY82e8gsj_I0pQ"
 },
 {
-    name: "Miyu Ottavia",
-    ID: "id5",
-    youtubeID: "UCOmjciHZ8Au3iKMElKXCF_g"
-},
-{
     name: "Riksa Dhirendra",
     ID: "id8",
     youtubeID: "UCkL9OLKjIQbKk2CztbpOCFg"
