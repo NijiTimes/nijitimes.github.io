@@ -15,11 +15,6 @@ let kr = [
         youtubeID: "UC5ek2GWKvUKFgnKSHuuCFrw"
     },
     {
-        name: "채아라 Ara Chae",
-        ID: "kr11",
-        youtubeID: "UCmWqYB6y8gSfPONWGspuOWQ"
-    },
-    {
         name: "아키라 레이 Ray Akira",
         ID: "kr7",
         youtubeID: "UC7hffDQLKIEG-_zoAQkMIvg",
