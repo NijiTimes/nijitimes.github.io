@@ -94,11 +94,6 @@ let en = [{
     youtubeID: "UCuuAb_72QzK0M1USPMEl1yw"
 },
 {
-    name: "Yugo Asuma",
-    ID: "en18",
-    youtubeID: "UCSc_KzY_9WYAx9LghggjVRA"
-},
-{
     name: "Uki Violeta",
     ID: "en19",
     youtubeID: "UChJ5FTsHOu72_5OVx0rvsvQ"
