@@ -30,11 +30,6 @@ let vrl = [
     biliID: "14387072"
 },
 {
-    name: "金克茜",
-    ID: "vrl8",
-    biliID: "628292885"
-},
-{
     name: "露露娜",
     ID: "vrl9",
     biliID: "558070434"
@@ -48,11 +43,6 @@ let vrl = [
     name: "宫园凛",
     ID: "vrl11",
     biliID: "12485637"
-},
-{
-    name: "鱼片娘(笙妤Syo)",
-    ID: "vrl12",
-    biliID: "596141957"
 },
 {
     name: "诺莺",
