@@ -411,13 +411,6 @@ let jp = [{
     biliOrder:39
 },
 {
-    name: "黛灰",
-    ID: "jp69",
-    youtubeID:"UCb5JxV6vKlYVknoJB8TnyYg",
-    biliID:"628292887",
-    biliOrder:37
-},
-{
     name: "阿露丝·阿尔玛",
     ID: "jp70",
     youtubeID:"UCdpUojq0KWZCN9bxXnZwz5w"
@@ -534,13 +527,6 @@ let jp = [{
     biliID:"690608705",
     biliOrder:44,
     fontSize:28
-},
-{
-    name: "梅丽莎·金莲花",
-    ID: "jp91",
-    youtubeID:"UCwcyyxn6h9ex4sMXGtpQE_g",
-    biliID:"690608707",
-    biliOrder:41
 },
 {
     name: "伊卜拉新",
