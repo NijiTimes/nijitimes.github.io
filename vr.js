@@ -54,11 +54,6 @@ let vr = [{
     biliID: "474369808"
 },
 {
-    name: "星也",
-    ID: "vr15",
-    biliID: "319810877"
-},
-{
     name: "雪绘",
     ID: "vr16",
     biliID: "56748733"
@@ -67,11 +62,6 @@ let vr = [{
     name: "沙夜",
     ID: "vr17",
     biliID: "490331391"
-},
-{
-    name: "花留",
-    ID: "vr18",
-    biliID: "370687588"
 },
 {
     name: "卡欧斯",
