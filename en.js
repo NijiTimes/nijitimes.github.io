@@ -128,5 +128,29 @@ let en = [{
     name: "Ren Zotto",
     ID: "en26",
     youtubeID: "UCKu59gTZ_rdEmerdx5rV4Yg"
+},{
+    name: "Zaion LanZa",
+    ID: "en27",
+    youtubeID: "UCIairB9UMDvqSKfMdv1jmjg"
+},{
+    name: "Meloco Kyoran",
+    ID: "en28",
+    youtubeID: "UChKXd7oqD18qiIYBoRIHTlw"
+},{
+    name: "Kotoka Torahime",
+    ID: "en29",
+    youtubeID: "UCggO2c1unS-oLwTLT0ICywg"
+},{
+    name: "Doppio Dropscythe",
+    ID: "en30",
+    youtubeID: "UCy91xBlY_Brh3bnHxKtjrrg"
+},{
+    name: "Hex Haywire",
+    ID: "en31",
+    youtubeID: "UCz_ZRw6ak4Foy8zZy0kEprQ"
+},{
+    name: "Ver Vermillion",
+    ID: "en32",
+    youtubeID: "UCO8WcDsF5znr-qsXlzZNpqg"
 },
 ]
