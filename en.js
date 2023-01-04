@@ -143,11 +143,11 @@ let en = [{
     ID: "en29",
     youtubeID: "UCggO2c1unS-oLwTLT0ICywg"
 },{
-    name: "Doppio Dropscythe",
+    name: "Hex Haywire",
     ID: "en30",
     youtubeID: "UCy91xBlY_Brh3bnHxKtjrrg"
 },{
-    name: "Hex Haywire",
+    name: "Doppio Dropscythe",
     ID: "en31",
     youtubeID: "UCz_ZRw6ak4Foy8zZy0kEprQ"
 },{
