@@ -145,7 +145,8 @@ let en = [{
 },{
     name: "Doppio Dropscythe",
     ID: "en30",
-    youtubeID: "UCy91xBlY_Brh3bnHxKtjrrg"
+    youtubeID: "UCy91xBlY_Brh3bnHxKtjrrg",
+    fontSize: 26
 },{
     name: "Hex Haywire",
     ID: "en31",
