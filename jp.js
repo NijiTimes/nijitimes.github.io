@@ -666,5 +666,33 @@ let jp = [{
     name:"四季凪圣来 ",
     ID:"jp119",
     youtubeID:"UCcDDxnoQcezyTUzHg5uHaKg"
+},{
+    name:"苏菲娅・瓦纶玎",
+    ID:"jp120",
+    youtubeID:"UCivwPlOp0ojnMPZj5pNOPPA"
+},{
+    name:"狮子堂灯",
+    ID:"jp121",
+    youtubeID:"UCWRPqA0ehhWV4Hnp27PJCkQ"
+},{
+    name:"小清水透",
+    ID:"jp122",
+    youtubeID:"UCUP8TmlO7NNra88AMqGU_vQ"
+},{
+    name:"仓持妹路特",
+    ID:"jp123",
+    youtubeID:"UCiA-trSZfB0i92V_-dyDqBw"
+},{
+    name:"镝木露恋",
+    ID:"jp124",
+    youtubeID:"UClrQ7xhRBxS_v_-WuudGKmA"
+},{
+    name:"石神望",
+    ID:"jp125",
+    youtubeID:"UCtLfA_qUqCJtjXJM2ZR_keg"
+},{
+    name:"五十岚梨花",
+    ID:"jp126",
+    youtubeID:"UCu-rV2gPtJ-CsGxe71z_BrQ"
 }
 ]
