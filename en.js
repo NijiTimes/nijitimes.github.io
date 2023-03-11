@@ -131,10 +131,6 @@ let en = [{
     ID: "en26",
     youtubeID: "UCKu59gTZ_rdEmerdx5rV4Yg"
 },{
-    name: "Zaion LanZa",
-    ID: "en27",
-    youtubeID: "UCIairB9UMDvqSKfMdv1jmjg"
-},{
     name: "Meloco Kyoran",
     ID: "en28",
     youtubeID: "UChKXd7oqD18qiIYBoRIHTlw"
