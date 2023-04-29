@@ -694,5 +694,21 @@ let jp = [{
     name:"五十岚梨花",
     ID:"jp126",
     youtubeID:"UCu-rV2gPtJ-CsGxe71z_BrQ"
+},{
+    name:"赤城文",
+    ID:"jp127",
+    youtubeID:"UC1vawzfbCnRpHT9SJ5pHlHw"
+},{
+    name:"宇佐美理人",
+    ID:"jp128",
+    youtubeID:"UCambvP8yxNDot4FzQc9cgiw"
+},{
+    name:"佐伯一彻",
+    ID:"jp129",
+    youtubeID:"UCy8P3o5XlMpJGQY4WugzdNA"
+},{
+    name:"绯八舞成",
+    ID:"jp130",
+    youtubeID:"UCqXxS-9x9Ha_UiH6hG4kh5Q"
 }
 ]
