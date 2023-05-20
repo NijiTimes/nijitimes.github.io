@@ -4,11 +4,6 @@ let id = [{
     youtubeID: "UCZ5dNZsqBjBzbBl0l_IdmXg"
 },
 {
-    name: "Zea Cornelia",
-    ID: "id2",
-    youtubeID: "UCA3WE2WRSpoIvtnoVGq4VAw"
-},
-{
     name: "Hana Macchia",
     ID: "id1",
     youtubeID: "UCpJtk0myFr5WnyfsmnInP-w"
