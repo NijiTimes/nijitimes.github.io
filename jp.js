@@ -556,13 +556,6 @@ let jp = [{
     youtubeID:"UC_82HBGtvwN1hcGeOGHzUBQ"
 },
 {
-    name: "朝日南茜",
-    ID: "jp97",
-    youtubeID:"UCe_p3YEuYJb8Np0Ip9dk-FQ",
-    biliID:"690608703",
-    biliOrder:45
-},
-{
     name: "周央珊瑚",
     ID: "jp98",
     youtubeID:"UCL_O_HXgLJx3Auteer0n0pA"
