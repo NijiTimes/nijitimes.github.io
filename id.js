@@ -1,8 +1,4 @@
-let id = [{
-    name: "Taka Radjiman",
-    ID: "id3",
-    youtubeID: "UCZ5dNZsqBjBzbBl0l_IdmXg"
-},
+let id = [
 {
     name: "Hana Macchia",
     ID: "id1",
