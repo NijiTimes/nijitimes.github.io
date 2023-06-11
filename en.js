@@ -146,7 +146,9 @@ let en = [{
 },{
     name: "Hex Haywire",
     ID: "en31",
-    youtubeID: "UCz_ZRw6ak4Foy8zZy0kEprQ"
+    youtubeID: "UCz_ZRw6ak4Foy8zZy0kEprQ",
+    biliID:"1795172933",
+    biliOrder:8
 },{
     name: "Ver Vermillion",
     ID: "en32",
