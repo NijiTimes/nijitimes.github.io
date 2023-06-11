@@ -192,5 +192,45 @@ let vr = [{
     name: "雾深",
     ID: "vr47",
     biliID: "1484169431"
+},{
+    name: "岁己SUI",
+    ID: "vr48",
+    biliID: "1954091502"
+},{
+    name: "江乱Era",
+    ID: "vr49",
+    biliID: "1739085910"
+},{
+    name: "莱恩Leo",
+    ID: "vr50",
+    biliID: "1116072703"
+},{
+    name: "栞栞Shiori",
+    ID: "vr51",
+    biliID: "1609526545"
+},{
+    name: "欧珀Opal",
+    ID: "vr52",
+    biliID: "1827139579"
+},{
+    name: "伊舞Eve",
+    ID: "vr53",
+    biliID: "1542516095"
+},{
+    name: "初濑Hatsuse",
+    ID: "vr54",
+    biliID: "1711724633"
+},{
+    name: "雨纪Ameki",
+    ID: "vr55",
+    biliID: "1932862336"
+},{
+    name: "未知夜Michiya",
+    ID: "vr56",
+    biliID: "1296515170"
+},{
+    name: "哎小呜Awu",
+    ID: "vr57",
+    biliID: "1567394869"
 },
 ]
