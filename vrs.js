@@ -23,9 +23,4 @@ let vrs = [{
     ID: "vrs5",
     biliID: "11073"
 },
-{
-    name: "幽乐咩Ureme",
-    ID: "vrs6",
-    biliID: "1481781085"
-},
 ]
