@@ -14,11 +14,6 @@ let vr = [{
     biliID: "434401868"
 },
 {
-    name: "无理",
-    ID: "vr4",
-    biliID: "455916618"
-},
-{
     name: "惑姬",
     ID: "vr7",
     biliID: "472877684"
