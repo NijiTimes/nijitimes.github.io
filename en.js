@@ -34,11 +34,6 @@ let en = [{
     youtubeID: "UCR6qhsLpn62WVxCBK1dkLow"
 },
 {
-    name: "Nina Kosaka",
-    ID: "en8",
-    youtubeID: "UCkieJGn3pgJikVW8gmMXE2w"
-},
-{
     name: "Reimu Endou",
     ID: "en9",
     youtubeID: "UCBURM8S4LH7cRZ0Clea9RDA"
