@@ -297,13 +297,6 @@ let jp = [{
     youtubeID:"UCmeyo5pRj_6PXG-CsGUuWWg"
 },
 {
-    name: "郡道美玲",
-    ID: "jp51",
-    youtubeID:"UCeShTCVgZyq2lsBW9QwIJcw",
-    biliID:"458154139",
-    biliOrder:19
-},
-{
     name: "梦月萝娅",
     ID: "jp52",
     youtubeID:"UCCVwhI5trmaSxfcze_Ovzfw",
