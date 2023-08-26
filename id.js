@@ -10,19 +10,9 @@ let id = [
     youtubeID: "UC8Snw5i4eOJXEQqURAK17hQ"
 },
 {
-    name: "Amicia Michella",
-    ID: "id4",
-    youtubeID: "UCrR7JxkbeLY82e8gsj_I0pQ"
-},
-{
     name: "Riksa Dhirendra",
     ID: "id8",
     youtubeID: "UCkL9OLKjIQbKk2CztbpOCFg"
-},
-{
-    name: "Azura Cecillia",
-    ID: "id11",
-    youtubeID: "UCk5r533QVMgJUdWwqegH2TA"
 },
 {
     name: "Nara Haramaung",
@@ -44,11 +34,6 @@ let id = [
     name: "Bonnivier Pranaja",
     ID: "id10",
     youtubeID: "UCHjeZylSgXDSnor8wUnwU_g"
-},
-{
-    name: "Siska Leontyne",
-    ID: "id6",
-    youtubeID: "UC5qSx7KzdRwbsO1QmJc4d-w"
 },
 {
     name: "Nagisa Arcina",
