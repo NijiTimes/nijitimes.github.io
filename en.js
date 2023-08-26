@@ -51,13 +51,6 @@ let en = [{
     biliOrder:1
 },
 {
-    name: "Mysta Rias",
-    ID: "en12",
-    youtubeID: "UCIM92Ok_spNKLVB5TsgwseQ",
-    biliID:"1544125954",
-    biliOrder:2
-},
-{
     name: "Shu Yamino",
     ID: "en13",
     youtubeID: "UCG0rzBZV_QMP4MtWg6IjhEA",
